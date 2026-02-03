@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2089-find-target-indices-after-sorting-array) |
+## Matrix
+|  |
+| ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1380-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
