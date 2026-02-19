@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0922-sort-array-by-parity-ii) |
 | [1089-duplicate-zeros](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1089-duplicate-zeros) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0496-next-greater-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
