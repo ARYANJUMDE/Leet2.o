@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0051-n-queens](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0074-search-a-2d-matrix) |
 | [0496-next-greater-element-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0496-next-greater-element-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
