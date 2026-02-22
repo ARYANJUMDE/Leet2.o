@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0074-search-a-2d-matrix) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0496-next-greater-element-i) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Counting
