@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2119-a-number-after-a-double-reversal) |
