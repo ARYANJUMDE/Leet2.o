@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0131-palindrome-partitioning) |
 | [0709-to-lower-case](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0709-to-lower-case) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1108-defanging-an-ip-address](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1108-defanging-an-ip-address) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0131-palindrome-partitioning) |
 ## Database
 |  |
 | ------- |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0303-range-sum-query-immutable) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
