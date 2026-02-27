@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0088-merge-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0496-next-greater-element-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0088-merge-sorted-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1122-relative-sort-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0088-merge-sorted-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0922-sort-array-by-parity-ii) |
 | [1089-duplicate-zeros](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1089-duplicate-zeros) |
 ## String
