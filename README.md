@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0088-merge-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0506-relative-ranks) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0922-sort-array-by-parity-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0922-sort-array-by-parity-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0506-relative-ranks) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Simulation
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0088-merge-sorted-array) |
+| [0506-relative-ranks](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0506-relative-ranks) |
 | [0922-sort-array-by-parity-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1122-relative-sort-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2089-find-target-indices-after-sorting-array) |
