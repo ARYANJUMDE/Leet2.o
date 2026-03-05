@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3477-fruits-into-baskets-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3477-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3477-fruits-into-baskets-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3477-fruits-into-baskets-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -164,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0131-palindrome-partitioning) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
