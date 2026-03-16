@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0092-reverse-linked-list-ii) |
 | [0622-design-circular-queue](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0641-design-circular-deque) |
 ## Data Stream
