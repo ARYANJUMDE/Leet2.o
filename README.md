@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0641-design-circular-deque) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0739-daily-temperatures](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0922-sort-array-by-parity-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -150,10 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
 | ------- |
