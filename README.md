@@ -242,10 +242,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0024-swap-nodes-in-pairs) |
 | [0622-design-circular-queue](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0641-design-circular-deque) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0703-kth-largest-element-in-a-stream) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
