@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0506-relative-ranks) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Simulation
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0641-design-circular-deque) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -220,14 +222,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -239,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0641-design-circular-deque) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
