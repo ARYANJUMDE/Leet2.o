@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1148-article-views-i) |
+| [1211-queries-quality-and-percentage](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1211-queries-quality-and-percentage) |
 | [1407-top-travellers](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1407-top-travellers) |
 ## Counting Sort
 |  |
