@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1280-students-and-examinations) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1407-top-travellers](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1407-top-travellers) |
 ## Counting Sort
 |  |
