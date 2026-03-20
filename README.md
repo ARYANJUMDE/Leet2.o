@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1667-fix-names-in-a-table) |
 | [1693-daily-leads-and-partners](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1693-daily-leads-and-partners) |
+| [1757-recyclable-and-low-fat-products](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1757-recyclable-and-low-fat-products) |
 ## Counting Sort
 |  |
 | ------- |
