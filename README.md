@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1179-reformat-department-table) |
+| [1193-monthly-transactions-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1280-students-and-examinations) |
