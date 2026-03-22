@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1965-employees-with-missing-information](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1965-employees-with-missing-information) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3436-find-valid-emails) |
+| [3521-find-product-recommendation-pairs](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3521-find-product-recommendation-pairs) |
 ## Counting Sort
 |  |
 | ------- |
