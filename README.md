@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0234-palindrome-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0922-sort-array-by-parity-ii) |
 | [1089-duplicate-zeros](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1089-duplicate-zeros) |
 ## String
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0641-design-circular-deque) |
 ## Data Stream
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
