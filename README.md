@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1122-relative-sort-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1389-create-target-array-in-the-given-order) |
 | [1480-running-sum-of-1d-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1480-running-sum-of-1d-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1732-find-the-highest-altitude](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1732-find-the-highest-altitude) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0657-robot-return-to-origin) |
+| [1389-create-target-array-in-the-given-order](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1389-create-target-array-in-the-given-order) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3477-fruits-into-baskets-ii) |
