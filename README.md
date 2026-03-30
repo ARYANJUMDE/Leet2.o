@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1732-find-the-highest-altitude](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1122-relative-sort-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
@@ -373,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0543-diameter-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
