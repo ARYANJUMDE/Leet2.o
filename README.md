@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0234-palindrome-linked-list) |
+| [0763-partition-labels](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0763-partition-labels) |
 | [0922-sort-array-by-parity-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0922-sort-array-by-parity-ii) |
 | [1089-duplicate-zeros](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1089-duplicate-zeros) |
 ## String
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0709-to-lower-case) |
+| [0763-partition-labels](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0763-partition-labels) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1108-defanging-an-ip-address](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1108-defanging-an-ip-address) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0496-next-greater-element-i) |
 | [0706-design-hashmap](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0706-design-hashmap) |
+| [0763-partition-labels](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0763-partition-labels) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1122-relative-sort-array) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0605-can-place-flowers) |
+| [0763-partition-labels](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0763-partition-labels) |
 ## Hash Function
 |  |
 | ------- |
