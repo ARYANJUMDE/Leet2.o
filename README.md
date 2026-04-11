@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0303-range-sum-query-immutable) |
+| [0435-non-overlapping-intervals](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0605-can-place-flowers) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0088-merge-sorted-array) |
+| [0435-non-overlapping-intervals](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0506-relative-ranks) |
 | [0922-sort-array-by-parity-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1122-relative-sort-array) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0198-house-robber) |
+| [0435-non-overlapping-intervals](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0435-non-overlapping-intervals) |
 ## Segment Tree
 |  |
 | ------- |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0605-can-place-flowers) |
 ## Hash Function
 |  |
