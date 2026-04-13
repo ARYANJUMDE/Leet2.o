@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0547-number-of-provinces) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -405,8 +406,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0547-number-of-provinces) |
 ## Sliding Window
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
