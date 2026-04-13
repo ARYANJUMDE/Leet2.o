@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1480-running-sum-of-1d-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1584-min-cost-to-connect-all-points) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1672-richest-customer-wealth) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0684-redundant-connection) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0743-network-delay-time) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -447,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0743-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
