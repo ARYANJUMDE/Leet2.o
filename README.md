@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0785-is-graph-bipartite) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Depth-First Search
 |  |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0785-is-graph-bipartite) |
 ## Sliding Window
 |  |
 | ------- |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
