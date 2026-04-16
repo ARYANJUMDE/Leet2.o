@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2057-smallest-index-with-equal-value](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2215-find-the-difference-of-two-arrays) |
