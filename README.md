@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0198-house-robber) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0605-can-place-flowers) |
 | [0763-partition-labels](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0763-partition-labels) |
