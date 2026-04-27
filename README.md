@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0684-redundant-connection) |
