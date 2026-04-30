@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3477-fruits-into-baskets-ii) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2418-sort-the-people) |
 ## Matrix
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1399-count-largest-group) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2418-sort-the-people) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3162-find-the-number-of-good-pairs-i) |
