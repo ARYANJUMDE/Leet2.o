@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3477-fruits-into-baskets-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3866-first-unique-even-element](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3866-first-unique-even-element) |
 ## Heap (Priority Queue)
 |  |
