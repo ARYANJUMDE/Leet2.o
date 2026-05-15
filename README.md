@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2418-sort-the-people](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2418-sort-the-people) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2784-check-if-array-is-good](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2784-check-if-array-is-good) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2278-percentage-of-letter-in-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2278-percentage-of-letter-in-string) |
 | [2418-sort-the-people](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2418-sort-the-people) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
