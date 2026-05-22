@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0131-palindrome-partitioning) |
 | [0290-word-pattern](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0290-word-pattern) |
+| [0394-decode-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0394-decode-string) |
 | [0551-student-attendance-record-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0696-count-binary-substrings) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0394-decode-string) |
 ## Greedy
 |  |
 | ------- |
