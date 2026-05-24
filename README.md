@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1550-three-consecutive-odds) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1584-min-cost-to-connect-all-points) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1646-get-maximum-in-generated-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1646-get-maximum-in-generated-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1732-find-the-highest-altitude) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0657-robot-return-to-origin) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1389-create-target-array-in-the-given-order) |
+| [1646-get-maximum-in-generated-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1646-get-maximum-in-generated-array) |
 | [1929-concatenation-of-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2154-keep-multiplying-found-values-by-two) |
