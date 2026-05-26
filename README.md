@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2278-percentage-of-letter-in-string) |
 | [2418-sort-the-people](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2418-sort-the-people) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2784-check-if-array-is-good) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3866-first-unique-even-element](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3866-first-unique-even-element) |
