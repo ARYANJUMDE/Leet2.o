@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0191-number-of-1-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0980-unique-paths-iii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0980-unique-paths-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
 | ------- |
