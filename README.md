@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0234-palindrome-linked-list) |
 | [0696-count-binary-substrings](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0763-partition-labels) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0394-decode-string) |
 | [0551-student-attendance-record-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0551-student-attendance-record-i) |
