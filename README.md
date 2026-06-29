@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0088-merge-sorted-array) |
