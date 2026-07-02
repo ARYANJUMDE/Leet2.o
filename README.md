@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0451-sort-characters-by-frequency) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0138-copy-list-with-random-pointer) |
+| [0205-isomorphic-strings](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0496-next-greater-element-i) |
