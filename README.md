@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0049-group-anagrams) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0138-copy-list-with-random-pointer) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
