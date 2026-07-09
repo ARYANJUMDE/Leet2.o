@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0657-robot-return-to-origin) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1389-create-target-array-in-the-given-order) |
 | [1646-get-maximum-in-generated-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1646-get-maximum-in-generated-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1399-count-largest-group](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1399-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1688-count-of-matches-in-tournament](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2119-a-number-after-a-double-reversal) |
