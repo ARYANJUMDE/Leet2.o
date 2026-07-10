@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0980-unique-paths-iii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1089-duplicate-zeros](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1089-duplicate-zeros) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1122-relative-sort-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1122-relative-sort-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0767-reorganize-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1122-relative-sort-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1288-remove-covered-intervals) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0605-can-place-flowers) |
 | [0763-partition-labels](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0767-reorganize-string) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1833-maximum-ice-cream-bars](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2656-maximum-sum-with-exactly-k-elements) |
