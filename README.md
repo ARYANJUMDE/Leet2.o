@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0980-unique-paths-iii) |
+| [1002-find-common-characters](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1089-duplicate-zeros](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1089-duplicate-zeros) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0767-reorganize-string) |
 | [0824-goat-latin](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0824-goat-latin) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1002-find-common-characters](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1408-string-matching-in-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1408-string-matching-in-an-array) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0767-reorganize-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1002-find-common-characters](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1207-unique-number-of-occurrences) |
