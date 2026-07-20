@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0213-house-robber-ii) |
+| [0274-h-index](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0303-range-sum-query-immutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0435-non-overlapping-intervals) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0088-merge-sorted-array) |
+| [0274-h-index](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0274-h-index) |
 | [0406-queue-reconstruction-by-height](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0451-sort-characters-by-frequency) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0274-h-index) |
 | [1122-relative-sort-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1122-relative-sort-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1833-maximum-ice-cream-bars) |
 ## Design
