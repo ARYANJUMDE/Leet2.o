@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0881-boats-to-save-people](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0506-relative-ranks) |
 | [0767-reorganize-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0767-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0763-partition-labels) |
+| [0881-boats-to-save-people](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1089-duplicate-zeros) |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0605-can-place-flowers) |
 | [0763-partition-labels](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0767-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1833-maximum-ice-cream-bars](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2078-two-furthest-houses-with-different-colors) |
