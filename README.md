@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1108-defanging-an-ip-address) |
+| [1154-day-of-the-year](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1408-string-matching-in-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1408-string-matching-in-an-array) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1154-day-of-the-year](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1154-day-of-the-year) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1399-count-largest-group](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1399-count-largest-group) |
