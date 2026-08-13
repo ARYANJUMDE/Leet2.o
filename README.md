@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0152-maximum-product-subarray) |
@@ -647,5 +649,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
