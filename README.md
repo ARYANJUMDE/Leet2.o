@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0303-range-sum-query-immutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0435-non-overlapping-intervals) |
+| [0491-non-decreasing-subsequences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0560-subarray-sum-equals-k) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0451-sort-characters-by-frequency) |
+| [0491-non-decreasing-subsequences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0706-design-hashmap) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0191-number-of-1-bits) |
+| [0491-non-decreasing-subsequences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0491-non-decreasing-subsequences) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0980-unique-paths-iii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0980-unique-paths-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0131-palindrome-partitioning) |
+| [0491-non-decreasing-subsequences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0980-unique-paths-iii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Database
