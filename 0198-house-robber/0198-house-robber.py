@@ -1,17 +1,29 @@
 class Solution(object):
     def rob(self, nums):
+        # dp=[-1]*len(nums)
+        # def robbing(i):
+        #     if i>=len(nums):
+        #         return 0
+        #     if dp[i]!=-1:
+        #         return dp[i]
+        #     take=nums[i]+robbing(i+2)
+        #     skip=robbing(i+1)
+        #     dp[i]=max(take,skip)
+        #     return dp[i]
+        # return robbing(0)
         dp=[-1]*len(nums)
         def robbing(i):
             if i>=len(nums):
                 return 0
             if dp[i]!=-1:
                 return dp[i]
-            take=nums[i]+robbing(i+2)
-            skip=robbing(i+1)
-            dp[i]=max(take,skip)
-            return dp[i]
+            else:
+                take=nums[i]+robbing(i+2)
+                skip=robbing(i+1)
+                dp[i]=max(take,skip)
+                return dp[i]
         return robbing(0)
-        # dp=[-1]*len(nums)
+        # # dp=[-1]*len(nums)
         # for i in range(len(nums)):
         
         # Normal recusion code
