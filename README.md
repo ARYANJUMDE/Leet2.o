@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0458-poor-pigs](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1154-day-of-the-year](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1154-day-of-the-year) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0435-non-overlapping-intervals) |
+| [0458-poor-pigs](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0647-palindromic-substrings) |
 ## Segment Tree
@@ -665,4 +667,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
