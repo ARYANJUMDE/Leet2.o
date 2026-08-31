@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1833-maximum-ice-cream-bars](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Hash Function
 |  |
