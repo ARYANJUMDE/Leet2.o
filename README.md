@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0303-range-sum-query-immutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0406-queue-reconstruction-by-height) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0724-find-pivot-index) |
