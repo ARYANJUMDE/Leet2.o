@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0491-non-decreasing-subsequences) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
