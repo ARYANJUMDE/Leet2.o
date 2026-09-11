@@ -19,7 +19,8 @@ class Solution(object):
         max1=nums[0]
         for i in range(len(nums)):
             sum1=sum1+nums[i]
-            max1=max(max1,sum1)
+            if max1<sum1:
+                max1=sum1
             if sum1<0:
                 sum1=0
         return max1
