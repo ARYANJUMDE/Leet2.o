@@ -4,14 +4,14 @@ class Solution(object):
         final_len=0
         l=0
         r=0
-        t=[]
+        t=set()
         while r<len(s):
             if s[r] in t:
                 while s[r] in t:
-                    t.pop(0)
+                    t.remove(s[l])
                     l=l+1
                     curr_len=curr_len-1
-            t.append(s[r])
+            t.add(s[r])
             curr_len=curr_len+1
             if curr_len>final_len:
                 final_len=curr_len
