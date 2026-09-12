@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0980-unique-paths-iii) |
 | [1002-find-common-characters](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1002-find-common-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1089-duplicate-zeros](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1089-duplicate-zeros) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0209-minimum-size-subarray-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1004-max-consecutive-ones-iii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2540-minimum-common-value) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1732-find-the-highest-altitude) |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Union-Find
 |  |
