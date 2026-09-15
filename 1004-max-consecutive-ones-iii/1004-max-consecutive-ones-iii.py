@@ -8,30 +8,71 @@ class Solution(object):
         # if len(x)==0:
         #     return 0
         # return(max(x))
-        l=0
+        # l=0
+        # r=0
+        # max_len=0
+        # final_len=0
+        # while r<len(nums):
+        #     if k>0:
+        #         max_len=max_len+1
+        #         if nums[r]==0:
+        #             k=k-1
+        #     else:
+        #         if nums[r]==1:
+        #             max_len=max_len+1
+        #         else:
+        #             while k==0:
+        #                 if nums[l]==0:
+        #                     k=k+1
+        #                 l=l+1
+        #                 max_len=max_len-1
+        #             max_len=max_len+1
+        #             k=k-1
+        #     if max_len>final_len:
+        #         final_len=max_len
+        #     r=r+1
+        # return final_len
         r=0
+        l=0
+        curr_len=0
         max_len=0
-        final_len=0
+        #while r<len(nums):
+        #     if k>0:
+        #         curr_len=curr_len+1
+        #         if nums[r]==0:
+        #             k=k-1
+        #     elif k==0 and nums[r]!=0:
+        #         curr_len=curr_len+1
+        #     elif k==0 and nums[r]==0:
+        #         curr_len=curr_len+1
+        #         while k==0:
+        #             if nums[l]==0:
+        #                 k=k+1
+        #             curr_len=curr_len-1
+        #             l=l+1
+        #         k=k-1
+        #     if curr_len>max_len:
+        #         max_len=curr_len
+        #     r=r+1
+        # return max_len
+
         while r<len(nums):
-            if k>0:
-                max_len=max_len+1
-                if nums[r]==0:
-                    k=k-1
-            else:
-                if nums[r]==1:
-                    max_len=max_len+1
-                else:
-                    while k==0:
-                        if nums[l]==0:
-                            k=k+1
-                        l=l+1
-                        max_len=max_len-1
-                    max_len=max_len+1
-                    k=k-1
-            if max_len>final_len:
-                final_len=max_len
+            if nums[r]!=0:
+                curr_len=curr_len+1
+            elif nums[r]==0 and k>0:
+                curr_len=curr_len+1
+                k=k-1
+            elif nums[r]==0 and k==0:
+                curr_len=curr_len+1
+                while k==0:
+                    curr_len=curr_len-1
+                    if nums[l]==0:
+                        k=k+1
+                    l=l+1
+                k=k-1
+            if curr_len>max_len:
+                max_len=curr_len
             r=r+1
-        return final_len
-                
-                        
-                    
+        return max_len
+
+        
