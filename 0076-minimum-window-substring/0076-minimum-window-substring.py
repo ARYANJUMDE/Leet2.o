@@ -46,16 +46,16 @@ class Solution(object):
             k=map1.copy()
             while r<len(s):
                 if s[r] in map1:
-                    k[s[r]]=k[s[r]]-1
-                    if k[s[r]]>=0:
+                    map1[s[r]]=map1[s[r]]-1
+                    if map1[s[r]]>=0:
                         count=count+1
                 while count==len(t):
                     if r-l+1<min_len:
                         min_len=r-l+1
                         start=l
                     if s[l] in map1:
-                        k[s[l]]=k[s[l]]+1
-                        if k[s[l]]>0:
+                        map1[s[l]]=map1[s[l]]+1
+                        if map1[s[l]]>0:
                             count=count-1
                     l=l+1
                 r=r+1
