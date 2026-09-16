@@ -43,7 +43,6 @@ class Solution(object):
                     map1[t[i]]=1
                 else:
                     map1[t[i]]=map1[t[i]]+1
-            k=map1.copy()
             while r<len(s):
                 if s[r] in map1:
                     map1[s[r]]=map1[s[r]]-1
