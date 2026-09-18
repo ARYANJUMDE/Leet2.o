@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0860-lemonade-change](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0922-sort-array-by-parity-ii) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0605-can-place-flowers) |
 | [0763-partition-labels](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1833-maximum-ice-cream-bars](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1833-maximum-ice-cream-bars) |
