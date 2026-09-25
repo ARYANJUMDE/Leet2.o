@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2427-number-of-common-factors](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2427-number-of-common-factors) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1946-largest-number-after-mutating-substring](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1946-largest-number-after-mutating-substring) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Hash Function
 |  |
