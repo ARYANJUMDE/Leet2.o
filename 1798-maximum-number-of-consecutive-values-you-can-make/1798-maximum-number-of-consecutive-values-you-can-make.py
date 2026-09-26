@@ -7,7 +7,7 @@ class Solution(object):
         #         break
         #     reach=reach+coins[i]
         # return reach+1
-        coins.sort()
+        #coins.sort()
         # a=[0]
         # s=set()
         # for i in range(len(coins)):
