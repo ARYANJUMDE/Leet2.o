@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2427-number-of-common-factors) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 ## Hash Function
 |  |
 | ------- |
