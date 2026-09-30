@@ -572,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0785-is-graph-bipartite) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0785-is-graph-bipartite) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
