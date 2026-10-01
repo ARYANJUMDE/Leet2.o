@@ -753,4 +753,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
