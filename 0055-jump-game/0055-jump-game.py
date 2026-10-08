@@ -14,13 +14,22 @@ class Solution(object):
         # else:
         #     return(True)
 
+        # max_index=0
+        # for i in range(len(nums)):
+        #     if i>max_index:
+        #         return False
+        #     jump=i+nums[i]
+        #     if jump>max_index:
+        #         max_index=jump
+        #     if max_index>=len(nums)-1:
+        #         return True
+        j=0
         max_index=0
         for i in range(len(nums)):
             if i>max_index:
                 return False
-            jump=i+nums[i]
-            if jump>max_index:
-                max_index=jump
+            j=i+nums[i]
+            if max_index<j:
+                max_index=j
             if max_index>=len(nums)-1:
                 return True
-            
