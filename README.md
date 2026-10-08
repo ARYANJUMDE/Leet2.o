@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3477-fruits-into-baskets-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3637-trionic-array-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3637-trionic-array-i) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1952-three-divisors) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2427-number-of-common-factors](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2427-number-of-common-factors) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Number Theory
 |  |
 | ------- |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0980-unique-paths-iii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0980-unique-paths-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Backtracking
 |  |
 | ------- |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0509-fibonacci-number) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Greedy
 |  |
 | ------- |
