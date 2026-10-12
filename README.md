@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1046-last-stone-weight](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1089-duplicate-zeros) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1122-relative-sort-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1122-relative-sort-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0767-reorganize-string) |
+| [1046-last-stone-weight](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1338-reduce-array-size-to-the-half) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Simulation
