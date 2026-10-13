@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3637-trionic-array-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3637-trionic-array-i) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3866-first-unique-even-element](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Function
 |  |
 | ------- |
