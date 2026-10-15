@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0406-queue-reconstruction-by-height) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -760,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0406-queue-reconstruction-by-height) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Memoization
 |  |
 | ------- |
