@@ -1,19 +1,23 @@
-class Solution(object):
-    def isValid(self, s):
-        stack=[]
+class Solution:
+    def isValid(self, s: str) -> bool:
+        x=[]
         for ch in s:
-            if(ch in "({["):
-                stack.append(ch)
+            if ch=='(' or ch=='[' or ch=='{':
+                x.append(ch)
             else:
-                if len(stack)==0:
+                if len(x)==0:
                     return False
-                top=stack.pop()
-
-                if ((ch==")" and top!="(") or (ch=="]" and top!="[") or (ch=="}" and top!="{")):
-
-
+                t=x.pop()
+                if ch==")" and t=="(":
+                    continue
+                elif ch=="]" and t=="[":
+                    continue
+                elif ch=="}" and t=="{":
+                    continue
+                else:
                     return False
-        return len(stack)==0
-
-        
-        
+        if len(x)==0:
+            return True
+        else:
+            return False
+                    
