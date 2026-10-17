@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1646-get-maximum-in-generated-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1732-find-the-highest-altitude) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1408-string-matching-in-an-array) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1805-number-of-different-integers-in-a-string) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1399-count-largest-group) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1399-count-largest-group) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -456,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0980-unique-paths-iii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0980-unique-paths-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Backtracking
 |  |
