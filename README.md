@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0896-monotonic-array) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0746-min-cost-climbing-stairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Segment Tree
 |  |
