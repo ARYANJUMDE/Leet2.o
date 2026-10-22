@@ -6,6 +6,7 @@ class Solution(object):
             return 1
         nums.sort()
         right=0
+        left=0
         max_len=float('-inf')
         curr_len=1
         while right<len(nums)-1:
@@ -14,6 +15,9 @@ class Solution(object):
             elif nums[right+1]==nums[right]:
                 pass
             else:
+                while left!=right+1:
+                    left=left+1
+                    curr_len=curr_len-1
                 curr_len=1
             if curr_len>max_len:
                 max_len=curr_len
