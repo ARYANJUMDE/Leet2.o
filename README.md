@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2278-percentage-of-letter-in-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2278-percentage-of-letter-in-string) |
+| [2409-count-days-spent-together](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2418-sort-the-people) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2409-count-days-spent-together](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2427-number-of-common-factors) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
