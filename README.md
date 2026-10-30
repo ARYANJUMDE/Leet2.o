@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1748-sum-of-unique-elements) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1833-maximum-ice-cream-bars) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1748-sum-of-unique-elements) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1399-count-largest-group) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2341-maximum-number-of-pairs-in-array) |
