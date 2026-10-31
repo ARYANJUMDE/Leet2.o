@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2032-two-out-of-three](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1805-number-of-different-integers-in-a-string](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2032-two-out-of-three](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0980-unique-paths-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2032-two-out-of-three](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2032-two-out-of-three) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Backtracking
 |  |
