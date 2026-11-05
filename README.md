@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2341-maximum-number-of-pairs-in-array) |
