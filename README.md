@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0172-factorial-trailing-zeroes) |
 | [0458-poor-pigs](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
