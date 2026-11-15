@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1929-concatenation-of-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1710-maximum-units-on-a-truck) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1833-maximum-ice-cream-bars](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1833-maximum-ice-cream-bars) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1768-merge-strings-alternately) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2540-minimum-common-value](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1710-maximum-units-on-a-truck) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1833-maximum-ice-cream-bars](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1833-maximum-ice-cream-bars) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1946-largest-number-after-mutating-substring](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1946-largest-number-after-mutating-substring) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2091-removing-minimum-and-maximum-from-array) |
