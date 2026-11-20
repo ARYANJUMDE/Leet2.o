@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1207-unique-number-of-occurrences) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1288-remove-covered-intervals) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1207-unique-number-of-occurrences) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1338-reduce-array-size-to-the-half) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1029-two-city-scheduling) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1338-reduce-array-size-to-the-half) |
 | [1710-maximum-units-on-a-truck](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1710-maximum-units-on-a-truck) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
