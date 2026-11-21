@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2126-destroying-asteroids](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2126-destroying-asteroids) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2126-destroying-asteroids](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2126-destroying-asteroids) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2418-sort-the-people](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2418-sort-the-people) |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1946-largest-number-after-mutating-substring](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1946-largest-number-after-mutating-substring) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2126-destroying-asteroids](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2126-destroying-asteroids) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
