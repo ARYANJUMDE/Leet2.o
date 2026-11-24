@@ -668,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0785-is-graph-bipartite) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -813,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ARYANJUMDE/Leet2.o/tree/master/0785-is-graph-bipartite) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
