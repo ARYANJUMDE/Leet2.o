@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3151-special-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3477-fruits-into-baskets-ii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3566-partition-array-into-two-equal-product-subsets) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2544-alternating-digit-sum) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2427-number-of-common-factors](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Number Theory
 |  |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2427-number-of-common-factors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Stack
 |  |
@@ -819,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Union-Find
 |  |
 | ------- |
