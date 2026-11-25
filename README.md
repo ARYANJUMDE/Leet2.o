@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2706-buy-two-chocolates](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2418-sort-the-people](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2418-sort-the-people) |
+| [2706-buy-two-chocolates](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2706-buy-two-chocolates](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2706-buy-two-chocolates) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ARYANJUMDE/Leet2.o/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Function
