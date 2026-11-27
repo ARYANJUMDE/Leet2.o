@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1748-sum-of-unique-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1773-count-items-matching-a-rule) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ARYANJUMDE/Leet2.o/tree/master/1822-sign-of-the-product-of-an-array) |
